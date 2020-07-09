@@ -1,5 +1,4 @@
 body {
-  background-color: gray;
   color: #333;
   font-family: Arial;
   text-align: center;
@@ -42,5 +41,11 @@ body {
 
 #post {
   padding: 1rem;
-  background: white;
+}
+
+.footer {
+  padding: 5px 5px;
+  background-color: gray;
+  text-align: center;
+  color: white;
 }
