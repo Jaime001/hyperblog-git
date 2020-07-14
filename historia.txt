@@ -8,4 +8,6 @@ Tambien es un buen muchacho, le gustas los videojugos y salir con sus amigos, es
 
 Master 1
 
+Master 2
+
 Le gusta experimentar con css y javascript. 
